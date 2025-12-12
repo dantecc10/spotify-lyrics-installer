@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# modificación
 cd /home/darkseid/scripting/spotify-lyrics/
 
 python3 -m venv env
